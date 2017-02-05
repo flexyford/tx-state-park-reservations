@@ -1,0 +1,16 @@
+{
+  "name": "tx-state-parks",
+  "version": "1.0.0",
+  "description": "A Web Scraper For Texas State Park Reservations",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Alex Ford <alexford90@gmail.com> (http://github.com/flexyford)",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.1",
+    "request": "^2.79.0"
+  }
+}
